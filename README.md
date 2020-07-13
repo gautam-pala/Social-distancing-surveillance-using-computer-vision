@@ -70,15 +70,14 @@ For running:
 Good GPU, for faster results. CPU is also fine. Also for CPU you can use yolov3-tiny.weights (https://pjreddie.com/media/files/yolov3-tiny.weights).
 
 
+Team :
+
+- Gautam Pala
+- Jayesh Kriplani
+- Rushabh Patel
+- Pranam Doshi
+- Vatsal Lalcheta
 
 
 
-
-
-
-
-
-
-
-
-
+# ---------------------------------------------------------------------------Work in progress------------------------------------------------------------------------------------
