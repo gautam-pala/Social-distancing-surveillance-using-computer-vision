@@ -1,5 +1,7 @@
 # Social-distancing-surveillance-using-computer-vision
 
+
+
 # AI powered social distancing surveillance system in Office and Public places.
 
 
@@ -54,6 +56,12 @@ Now we have bounding box for each person in the frame. We need to estimate perso
 - Red, Yellow, Green points represents risk to human in Bird’s eye view. Red: High Risk, Yellow: Low Risk and Green: No Risk.
 - Red, Yellow lines between two humans in output tells they are violating social distancing rules.
 
+# Future work(any suggestions and contributions are welcomed)  :
+
+- In this system, we can add face recognition.
+- We can add modules for registration of face, Indentifications of face.
+- we can add module for automatic fine or penalty system also.
+
 # Requirements:
 
 You will need the following to run this code:
@@ -70,7 +78,7 @@ For running:
 Good GPU, for faster results. CPU is also fine. Also for CPU you can use yolov3-tiny.weights (https://pjreddie.com/media/files/yolov3-tiny.weights).
 
 
-Team :
+# Team :
 
 - Gautam Pala
 - Jayesh Kriplani
